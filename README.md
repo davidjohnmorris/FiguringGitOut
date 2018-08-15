@@ -1,5 +1,5 @@
 <p align="center">
-![](images/BYlotriTE small.jpg)
+![](https://github.com/davidjohnmorris/FiguringGitOut/blob/master/images/BYlotriTEme.jpg)
 </p>
 
 - **Project name:** FiguringGitOut
