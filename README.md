@@ -1,6 +1,4 @@
-<p align="center">
 ![](https://github.com/davidjohnmorris/FiguringGitOut/blob/master/images/BYlotriTEme.jpg)
-</p>
 
 - **Project name:** FiguringGitOut
 
